@@ -41,14 +41,3 @@ The model was evaluated using mean average precision (mAP) and Intersection over
   <img src="F1_curve.png" alt="Detection 2" width="600">
 </p>
 
-## 🛠️ Installation & Usage
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/yourusername/football-ball-detection.git
-cd football-ball-detection
-```
-
-
-
