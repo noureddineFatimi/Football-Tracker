@@ -26,7 +26,7 @@ The dataset includes:
 
 Watch a demonstration of the system detecting footballs in a real match video:
 
-👉 **[Watch Demo on Google Drive](https://drive.google.com/your_demo_video_link_here](https://drive.google.com/drive/folders/1rcgV6Bs9FpbKMKBDa1J7xDDdSyORVf0H?usp=drive_link)**  
+👉 <a href="https://drive.google.com/drive/folders/1rcgV6Bs9FpbKMKBDa1J7xDDdSyORVf0H?usp=drive_link">Demo</a>
 
 ## 📈 Evaluation
 The model was evaluated using mean average precision (mAP) and Intersection over Union (IoU) scores on the test set from Roboflow. Results and charts are available in the evaluation/ folder.
